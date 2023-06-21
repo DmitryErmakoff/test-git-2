@@ -5,8 +5,8 @@
 5. git push [rep_link] [branch_name]
 
 Полезное --
-1. git remove -v посмотреть ссылку на гит
-2. git remove add origin [rep_link] привязать пустой гид к папке
+1. git remote -v посмотреть ссылку на гит
+2. git remote add origin [rep_link] привязать пустой гид к папке
 3. git reset [название файла] убрать из stage
 4. git diff просмотр изменений, можно так же у отдельного файла
 5. git reset --hard отменяет все изменения
