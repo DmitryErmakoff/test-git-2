@@ -18,3 +18,4 @@
 5. git pull [rep_link] [branch_name] получить слияние веток с гита
 6. git merge [branch_name] склеить ветки  (обычно делают слияние находясь в мейн)
 7. git branch -d [branch_name] удалить ветку (обычно после слияния удаляют)
+8. git checkout -b [branch_name] переместиться в сразу созданную ветку
